@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 
+## I'm Shamil, a passionate and ambitious guy who aspires to become a DevSecOps who enjoys solving problems creatively and collaborating with open-source developers.
+## TG: @shamqa
 
 <!--
 **shamqa/shamqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
